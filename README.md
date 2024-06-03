@@ -4,6 +4,6 @@
 
 - 🌱 I’m learning Backend Development 👨🏾‍💻
 
-- 🤔 I’m looking for help with Career Paths as a Computer Scientist
+- 🤔 I’m looking for help with Career Paths as a Software Engineer
 
 - ⚡ Fun fact: I play basketball 🏀 for fun and love working out 
