@@ -1,8 +1,8 @@
 # About me
 
-- 🔭 I’m currently interning at Terragon Ltd. 
+- 🔭 I’m currently a student at Covenant University
 
-- 🌱 I’m learning Backend Development 👨🏾‍💻
+- 🌱 I’m studying Computer Science 👨🏾‍💻
 
 - 🤔 I’m looking for help with Career Paths as a Software Engineer
 
