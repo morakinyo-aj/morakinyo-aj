@@ -1,9 +1,7 @@
 # About me
 
-- 🔭 I’m currently a student at Covenant University
+- 🔭 I’m still a student 👨🏽‍🍳
 
-- 🌱 I’m studying Computer Science 👨🏾‍💻
+- 🤔 getting better as a SWE, upcoming ML engineer 🙏🏾 { inshallah }
 
-- 🤔 I’m looking for help with Career Paths as a Software Engineer
-
-- ⚡ Fun fact: I play basketball 🏀 for fun and love working out 
+- ⚡ I play basketball 🏀 and visit the gym
